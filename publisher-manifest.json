@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "8fc737c1ca5fc5caf1e2b836",
+  "owner": "uccstkhy",
+  "repo": "page-8726cc84af019bab68b30da4",
+  "title": "二次元(ecycloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8726cc84af019bab68b30da4",
+      "a": "二次元(ecycloud)",
+      "b": "",
+      "entity": "二次元(ecycloud)",
+      "brand": "二次元(ecycloud)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "d569eb925b24e7707362a2a7f68364af72c6f511f76cb60727303c9f1079f046",
+      "content": {
+        "keyword1": "二次元(ecycloud)",
+        "keyword2": "",
+        "primary_entity": "二次元(ecycloud)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "二次元(ecycloud) 会员对照页。按清单列出使用步骤、三档套餐额度、客户端说明与编号问答，便于逐条核对，不附加未提供的机构或性能说明。",
+          "AI_DESCRIPTION": "二次元(ecycloud) 会员对照页。按清单列出使用步骤、三档套餐额度、客户端说明与编号问答，便于逐条核对，不附加未提供的机构或性能说明。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box}\nhtml{font-size:16px}\nbody{margin:0;background:#F4EBD9;color:#2F1C14;font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"Noto Sans SC\",sans-serif;line-height:1.7}\nmain{max-width:820px;margin:0 auto 0 7vw;padding:28px 18px 96px}\na{color:#B33C2A;text-decoration:underline;text-underline-offset:3px}\na:hover{color:#7E2418}\nh1{margin:0 0 12px;font-size:clamp(1.8rem,5vw,2.6rem);font-weight:700;letter-spacing:.04em;line-height:1.25;text-align:left}\nh2{margin:0 0 14px;font-size:1.28rem;font-weight:700;color:#B33C2A;letter-spacing:.06em;border-bottom:2px dashed #B33C2A;padding-bottom:8px}\nh3{margin:0 0 8px;font-size:1.05rem;font-weight:700}\np{margin:0 0 10px}\nul,ol{margin:0 0 12px;padding-left:1.3em}\nli{margin:0 0 6px}\n.kicker{font-size:.78rem;letter-spacing:.18em;color:#B33C2A;margin-bottom:8px}\n.hero{margin:0 0 56px}\n.timeline{position:relative;margin:20px 0 0 6px;padding:4px 0 8px 42px;border-left:3px solid #B33C2A}\n.t-item{position:relative;margin:0 0 28px}\n.t-item:last-child{margin-bottom:0}\n.t-item::before{content:\"\";position:absolute;left:-52px;top:8px;width:16px;height:16px;background:#B33C2A;border:3px solid #F4EBD9}\n.t-num{display:block;font-size:1.7rem;line-height:1;color:#B33C2A;font-weight:700;margin-bottom:6px}\n.t-label{font-size:.82rem;letter-spacing:.14em;color:#7A4A3A;margin-bottom:6px}\n.jumps{margin-top:10px}\n.jumps a{margin-right:14px;white-space:nowrap}\n.section{margin:0 0 52px}\n.note{font-size:.92rem;color:#5A382C}\n.ticket{display:grid;grid-template-columns:92px 1fr;border:2px dashed #B33C2A;background:#FFF8F0;margin:0 0 14px}\n.ticket.featured{border-width:3px;background:#F8E0D4}\n.stub{border-right:2px dashed #B33C2A;padding:16px 8px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px}\n.stub .code{font-size:.72rem;letter-spacing:.16em;color:#7A4A3A}\n.stub .name{writing-mode:vertical-rl;letter-spacing:.28em;font-weight:700;font-size:1.05rem}\n.face{padding:16px 18px 18px}\n.price{font-size:1.35rem;font-weight:700;color:#B33C2A;margin:0 0 4px}\n.annual{font-size:.92rem;margin-bottom:10px}\n.mark{display:inline-block;border:1px dashed #B33C2A;padding:1px 8px;font-size:.75rem;letter-spacing:.12em;margin-bottom:8px}\n.face ul{margin:0;padding-left:1.15em}\n.guide-list{list-style:none;padding:0;margin:0}\n.guide-list li{border:2px dashed #B33C2A;background:#FFF8F0;padding:12px 14px;margin:0 0 10px}\n.guide-list strong{color:#B33C2A}\n.faq-list{list-style:decimal;padding-left:1.4em}\n.faq-list li{margin:0 0 18px;padding-bottom:12px;border-bottom:1px dashed #D9B8A8}\n.faq-list li:last-child{border-bottom:0}\n.faq-list h3{font-size:1rem}\n.clients{border:2px dashed #B33C2A;background:#FFF8F0;padding:16px 18px}\n.foot-jumps{margin-top:18px;font-size:.92rem}\n@media (max-width:720px){\nmain{margin:0 auto;padding:20px 14px 80px}\n.timeline{padding-left:32px;margin-left:2px}\n.t-item::before{left:-42px;width:14px;height:14px}\n.ticket{grid-template-columns:1fr}\n.stub{flex-direction:row;justify-content:space-between;border-right:0;border-bottom:2px dashed #B33C2A;padding:8px 12px}\n.stub .name{writing-mode:horizontal-tb;letter-spacing:.2em}\n.jumps a{display:inline-block;margin:0 12px 8px 0}\n}\n</style><main>\n<section class=\"hero\" id=\"top\">\n<p class=\"kicker\">纵向对照 · 01 至 04</p>\n<h1>二次元(ecycloud)</h1>\n<p class=\"note\">先沿左侧时间线把名称、本页范围、阅读顺序和跳转入口核对完，再进入步骤与套餐。下列条目按清单书写，不补未提供的机构身份、性能或评价。</p>\n<div class=\"timeline\">\n<div class=\"t-item\">\n<span class=\"t-num\">01</span>\n<div class=\"t-label\">名称核对</div>\n<p>对外名称写作二次元，括号内并列 ecycloud。收藏、对账、工单标题建议两词一起保留，避免日后只记得其中一个对不上。</p>\n</div>\n<div class=\"t-item\">\n<span class=\"t-num\">02</span>\n<div class=\"t-label\">本页覆盖</div>\n<p>本页只处理四份清单：使用前核对、三档套餐、客户端说明、编号问答。流量数字与价格以套餐行内文字为准。未列出的节点、日志、退款、兼容名单，本页一律不写。</p>\n</div>\n<div class=\"t-item\">\n<span class=\"t-num\">03</span>\n<div class=\"t-label\">建议顺序</div>\n<p>第一步看使用核对；第二步按行展开套餐；第三步读客户端限制；第四步查问答。年付与月付不要混看，同一档只选一种计费方式对照。</p>\n</div>\n<div class=\"t-item\">\n<span class=\"t-num\">04</span>\n<div class=\"t-label\">页内跳转</div>\n<p class=\"jumps\"><a href=\"#guide\">使用步骤</a><a href=\"#plans\">套餐清单</a><a href=\"#clients\">客户端</a><a href=\"#faq\">常见问题</a></p>\n</div>\n</div>\n</section>\n\n<section class=\"section\" id=\"guide\">\n<h2>使用前逐项核对</h2>\n<p class=\"note\">按序号做完再开通或续费。缺一项就停在该项，不要跳步。</p>\n<ol class=\"guide-list\">\n<li><strong>1. 核对档位名称。</strong> 本页只有基础版、旗舰版、团队版三行。名称必须与账户里显示的档位一致，不要用口头简称代替。</li>\n<li><strong>2. 核对计费列。</strong> 每一行同时给出月价与年价。选定其中一列后，用该列金额做预算，不要把年价除以十二再和月价混算。</li>\n<li><strong>3. 核对月度额度。</strong> 基础版 100GB、旗舰版 300GB、团队版 1000GB，均为当月上限。用尽即止，本页不写额外赠送。</li>\n<li><strong>4. 核对同时在线台数。</strong> 基础版 3 台、旗舰版 5 台、团队版 20 台。超出上限时自行下线多余设备，本页不提供排队或临时扩容说明。</li>\n<li><strong>5. 准备订阅信息。</strong> 在你已持有的客户端中填入账户侧给出的订阅信息。本页不放置导入地址，也不演示配置过程。</li>\n<li><strong>6. 记账方式。</strong> 建议按自然月记录已用额度。统计口径以账户账单为准，页面数字只作对照。</li>\n</ol>\n<p class=\"foot-jumps\">下一份清单：<a href=\"#plans\">套餐清单</a>　返回：<a href=\"#top\">时间线</a></p>\n</section>\n\n<section class=\"section\" id=\"plans\">\n<h2>三档套餐，按行展开</h2>\n<p class=\"note\">以下为纵向列表，一行一档，票面虚线框。先读左侧存根上的档名，再读右侧价格与权益。旗舰版加了对照标记，不表示必须购买。</p>\n\n<article class=\"ticket\">\n<div class=\"stub\"><span class=\"code\">NO.01</span><span class=\"name\">基础版</span></div>\n<div class=\"face\">\n<p class=\"price\">¥15/月</p>\n<p class=\"annual\">按年付仅需 ¥150/年</p>\n<ul>\n<li>每月 100GB 流量额度</li>\n<li>支持 3 台设备同时在线</li>\n<li>基础会员内容权限</li>\n<li>常规资源配额</li>\n</ul>\n</div>\n</article>\n\n<article class=\"ticket featured\">\n<div class=\"stub\"><span class=\"code\">NO.02</span><span class=\"name\">旗舰版</span></div>\n<div class=\"face\">\n<p class=\"mark\">当前对照档</p>\n<p class=\"price\">¥35/月</p>\n<p class=\"annual\">按年付仅需 ¥350/年</p>\n<ul>\n<li>每月 300GB 流量额度</li>\n<li>支持 5 台设备同时在线</li>\n<li>进阶会员内容权限</li>\n<li>工单优先排队</li>\n</ul>\n</div>\n</article>\n\n<article class=\"ticket\">\n<div class=\"stub\"><span class=\"code\">NO.03</span><span class=\"name\">团队版</span></div>\n<div class=\"face\">\n<p class=\"price\">¥85/月</p>\n<p class=\"annual\">按年付仅需 ¥850/年</p>\n<ul>\n<li>每月 1000GB 流量额度</li>\n<li>支持 20 台设备同时在线</li>\n<li>团队共享额度</li>\n<li>客户经理对接（具体安排以实际沟通为准）</li>\n</ul>\n</div>\n</article>\n<p class=\"foot-jumps\">下一份清单：<a href=\"#clients\">客户端</a>　返回：<a href=\"#guide\">使用步骤</a></p>\n</section>\n\n<section class=\"section\" id=\"clients\">\n<h2>客户端说明</h2>\n<div class=\"clients\">\n<p>本页没有可核验的官方下载地址，因此不放置安装包链接，也不列出系统名单。</p>\n<ul>\n<li>请使用你已经持有的客户端，或等待后续可核验来源再安装。</li>\n<li>订阅信息只从账户侧复制，不要从来路不明的文本粘贴。</li>\n<li>多设备共用同一档位时，先数清在线台数，再打开新设备。</li>\n<li>卸载、重装、版本号对照，均以你本地已保存的说明为准。</li>\n</ul>\n<p class=\"note\">若日后出现可核验的下载页，应替换本段，而不是在本页伪造按钮。</p>\n</div>\n<p class=\"foot-jumps\">下一份清单：<a href=\"#faq\">常见问题</a>　返回：<a href=\"#plans\">套餐清单</a></p>\n</section>\n\n<section class=\"section\" id=\"faq\">\n<h2>常见问题</h2>\n<ol class=\"faq-list\">\n<li>\n<h3>二次元和 ecycloud 要写成两个名字吗？</h3>\n<p>本页把二者并列。收藏夹、对账单、工单标题建议写成「二次元(ecycloud)」。本页没有可核对的工商登记或主体说明，不能把其中一词单独当成另一套产品。</p>\n</li>\n<li>\n<h3>月价和年价应该看哪一列？</h3>\n<p>同一档同时写出月价与年价。选定按月或按年后，只用该列金额做预算。不要把年价拆成十二份再去和月价比，本页不提供换算结论。</p>\n</li>\n<li>\n<h3>100GB、300GB、1000GB 会不会自动结转？</h3>\n<p>三档写明的是当月上限。本页没有结转、冻结或补偿规则。实际是否清零，以账户账单为准。</p>\n</li>\n<li>\n<h3>设备台数满了怎么办？</h3>\n<p>按档位上限自行下线多余设备：基础版 3、旗舰版 5、团队版 20。本页不提供临时扩容、借用或排队说明。</p>\n</li>\n<li>\n<h3>客户端下载链接在哪里？</h3>\n<p>没有可核验来源，所以链接不写。不要在本页寻找安装按钮。已安装的客户端可继续使用；未安装时等到可核验来源再处理。</p>\n</li>\n<li>\n<h3>工单优先和客户经理是不是服务承诺？</h3>\n<p>旗舰版写了工单优先排队，团队版写了客户经理对接。这是套餐行内权益条目，不是响应时限或专人驻场承诺。没有提供的时限、渠道和评价，本页不补写。</p>\n</li>\n<li>\n<h3>本页能不能当退款或合同依据？</h3>\n<p>不能。本页未列出退款、发票、违约或日志条款。需要规则时，以账户侧当时展示的文本为准，不要截取本页清单当作合同。</p>\n</li>\n</ol>\n<p class=\"foot-jumps\"><a href=\"#top\">回到时间线</a>　<a href=\"#guide\">使用步骤</a>　<a href=\"#plans\">套餐清单</a>　<a href=\"#clients\">客户端</a></p>\n</section>\n</main>",
+          "hash": "8e5f963ba93368744e6f62b00932a9e8fe8c58b162b1e2f8e7e7c9cf4c3e7d9c",
+          "seo": {
+            "title": "二次元(ecycloud)｜套餐清单、使用步骤与问答",
+            "keywords": "二次元,ecycloud,套餐清单,流量额度,使用步骤,客户端说明,常见问题",
+            "description": "二次元(ecycloud) 会员对照页。按清单列出使用步骤、三档套餐额度、客户端说明与编号问答，便于逐条核对，不附加未提供的机构或性能说明。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "4421",
+            "hero": "6 纵向时间线引入",
+            "palette": "2 米白配砖红",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "2 纵向列表逐行展开",
+            "faq_view": "2 编号列表",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "megamill.cn",
+    "host": "p-89c3610a7a.megamill.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "915f4df95e79ed56d06d461c5684367a0e54454778208bae872b9ed5fefe5131",
+    "sitemap.xml": "7818d943c14719a009f2a7a149e0d8f6624b2fd3eca5e25ca51c12046f5218f3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "06ac8a0c70d376c2aa17b0eccf06fbd645719299182b944596b2e30940f6303c",
+    "robots.txt": "5fd2c17273d3c27b67fb7dc28ec061d032c5d4d970ba138b149c01e261a957da",
+    "f5d3ccf4977f35811689050d1f031a81.txt": "b60cf5ac0a8b9f8382fa5fe1feae5aac80d69772a7821ce9ee6a0314c0d5597d"
+  },
+  "revision": "4749899dcd6ed3bb9f6f72827f083e9d7faf2be2747d46c55ee8fc40613fce44"
+}
